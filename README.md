@@ -1,10 +1,10 @@
-#Introd
+# Introd
 
-##Sect 1
+## Sect 1
 
-##Sect 2
+## Sect 2
 
 
-##Sect 3
+## Sect 3
 
-##deploy
+## deploy
