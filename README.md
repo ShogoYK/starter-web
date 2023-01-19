@@ -1,4 +1,4 @@
-## Introd
+#Introd
 
 ##Sect 1
 
@@ -7,4 +7,4 @@
 
 ##Sect 3
 
-#deploy
+##deploy
