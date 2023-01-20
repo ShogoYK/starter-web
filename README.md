@@ -1,5 +1,5 @@
 # Introd
-Teste isso é um teste. adicionando uma nova linha pra modificação, mais modificações para feature tmb
+Teste isso é um teste. adicionando uma nova linha pra modificação, update de uma linha
 
 ## Sect 1
 Aprendendo a usar o maximo de ferramentas do git
