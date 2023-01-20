@@ -8,6 +8,11 @@ Mais uma adição ao texto
 
 ## deploy
 
+## como contribuir
+
+1) Fork
+2) PR
+
 ### Copyright 
 
 2023
