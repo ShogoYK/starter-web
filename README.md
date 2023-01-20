@@ -16,4 +16,4 @@ Mais uma adição ao texto
 
 ### Copyright 
 
-2023
+2023 Todos os direitos reserfvados
