@@ -1,5 +1,6 @@
 # Introd
-Teste isso é um teste
+Teste isso é um teste. adicionando uma nova linha pra modificação
+
 ## Sect 1
 Aprendendo a usar o maximo de ferramentas do git
 ## Sect 2
